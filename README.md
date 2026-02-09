@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on Improving my DSA skills and building full-stack web development projects.<br>I'm looking to collaborate on Open Source projects, beginner- friendly coding projects, and web development applications.<br>I'm Looking for to work with real-world project development projects.<br>I'm Currently Btech 1st Year CSE student at DYPIU.<br>You can ask me about coding life but not love life :)<br>I love Turning complex problems into simple explanations and content.
+I'm Currently working on Improving my DSA skills and building full-stack web development projects.<br>I'm looking to collaborate on Open Source projects, beginner- friendly coding projects, and web development applications.<br>I'm Looking for to work with real-world development projects.<br>I'm Currently Btech 1st Year CSE student at DYPIU.<br>You can ask me about coding life but not love life :)<br>I love Turning complex problems into simple explanations and content.
 
 
 ## 🌐 Socials:
