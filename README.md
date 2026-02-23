@@ -2,7 +2,7 @@
 💻 I'm Currently working on Improving my DSA skills and building full-stack web development projects.<br> 🌐 I'm looking to collaborate on Open Source projects, and web development applications.<br>📞 I'm Looking for to work with real-world development projects.<br> 📒 I'm Currently Btech 1st Year CSE student at DYPIU.<br> You can ask me about coding life but not love life :)<br> I love Turning complex problems into simple explanations and content.
 
 
-## 🌐 Socials:
+## 🌐 Socials - Connect Me Here :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leetcode365.kg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karangavhane) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Karan-Gavhane-4/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Disastrous_Solid9661) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karanGavhane1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Developer_Karan) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/karangavhane48) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karangavhane1213@gmail.com) 
 
 # 💻 Tech Stack:
