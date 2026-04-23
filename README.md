@@ -2,7 +2,7 @@
   
 # Hey there! 👋 I'm Karan Gavhane
 
-### 🚀 Full-Stack Developer | DSA Enthusiast | Content Creator
+### 🚀 Full-Stack Developer | DSA | Competitive Programming | Content Creator
 
 *Turning complex problems into simple explanations*
 
