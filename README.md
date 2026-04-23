@@ -86,7 +86,7 @@
 
 <br/>
 
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=KG48&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)](https://github.com/KG48)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=KG48&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)]
 
 </div>
 
