@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KG48&theme=tokyonight&no-frame=true&margin-w=15&v=5" />
+<img src="https://github-trophies.vercel.app/?username=KG48&column=9&row=1" alt="KG48" />
 
 </div>
 
