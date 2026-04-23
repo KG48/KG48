@@ -86,7 +86,7 @@
 
 <br/>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KG48&theme=tokyonight&hide_border=true)](https://github.com/KG48)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=KG48&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)](https://github.com/KG48)
 
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=KG48&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/KG48)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=KG48&theme=tokyonight&no-frame=true&margin-w=15&row=1)](https://github.com/KG48)
 
 </div>
 
