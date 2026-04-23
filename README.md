@@ -96,7 +96,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=KG48&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/KG48)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=KG48&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/KG48)
 
 </div>
 
