@@ -18,6 +18,7 @@
 - 💻 Currently sharpening my **DSA skills** and building **full-stack projects**
 - 🌐 Looking to collaborate on **open source** and real-world development
 - 🎯 Ask me about coding life *(but not love life 😅)*
+- ❤️ For more information..Check out my Profile.
 
 ---
 
